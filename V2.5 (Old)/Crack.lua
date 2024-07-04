@@ -1,4 +1,5 @@
 -- ONLY TURN ONE OF THOSE TO `true` IF YOU TURN MORE THAN 2 ON IT WILL NOT WORK!
+-- NOTE: THIS ONLY WORKS WITH THE V2.5 NOT V3!
 
 getgenv().normalkey = getgenv().normalkey or false -- If you're executing a script which is for the free version, but you still need to obtain a key.
 getgenv().premiumkey = getgenv().premiumkey or false -- If you're executing a premium script, so it will check if your key is premium.
